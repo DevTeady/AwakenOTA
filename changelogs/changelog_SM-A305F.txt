@@ -26,4 +26,4 @@ Source Changelog:
 
 Device Changelog:
 
-• Initial build.
+• Change to Awaken kernel.
